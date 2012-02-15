@@ -1,5 +1,5 @@
 #twr-test: 1
 #twr-npg: 12-added-to(twr-npg/master)-2nd-commit-in-a-branch
-#twr: 12345-in-a-branch
+#twr: 12345-in-a-branch-2nd-change
 
 release 0.1.0-SNAPSHOT
